@@ -1,0 +1,16 @@
+- Need to go to the barracks
+- Lots of destruction around town
+- Had a good night's slep + breakfast
+- Man who was linked with the glittershard home burnt down + can't be found
+- 2 days trek to gardener's wood - want to get a man from it
+- Karalina Glitter shard - Katia's sister
+- Glitterguards - glittershard guards
+- Justicar Hame - Ask to help - we agreed
+- Gardener's Wood (Ocean to the west of it) Famous where magic and nature intertwine
+	- Should be odd creatures eg. werewolves
+	- Mostly covered in darkness. Tress are thick-blocking out the light
+	- The gardener - diety who believed to exist i ancient times. Meant to be deceased but protected the woods
+- P.O.E.T. maybe able to help me out with info / Rubin Keep
+- Got through forest. Had to walk blindly throguh to solve a puzzle
+- Told by the woods to not go through the woods again unless it asks us to. If we rturn again we may be killed.
+- Balancers cove is where the cave came out.

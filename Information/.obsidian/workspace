@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "1592a2b32551f81d",
+    "type": "split",
+    "children": [
+      {
+        "id": "da1734992c393820",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wedding Website Requirements.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be546780b8542d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f91f86587e61f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1632bb79a64e2e40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9e9c2c170f16ba5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be1ec045788d2a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3327ef965e2aee92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f693c5ac14bdfae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wedding Website Requirements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "da1734992c393820",
+  "lastOpenFiles": [
+    "Wedding Website Requirements.md",
+    "Session Notes/Session 6 - \"Dead & forgotten no longer\".md",
+    "Session Notes/Session 5 - \"An unexpected Return\".md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md"
+  ]
+}

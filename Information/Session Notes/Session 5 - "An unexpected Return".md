@@ -1,0 +1,20 @@
+- Walked back through the Gardener's Wood.
+- Found a Goliath chained to a tree. Beefy Boy. Looks weathered. Granate coloured skin.
+- Roughly hune stone was infront of golaith. Alter there too.
+- Yet again I failed a proficiency skill check
+- Chain seems magically held there.
+- Runes on the rune stone
+- Runes written in Sylvin. Need mgic to read.
+- Eldritch blasted the rune to activate one.
+- Lots of writing appeared on them all
+- Days a dawning in post 4 Tree rot 1, early hours #2, fisherman's daughter #3 are all wrong
+- Ghosts sumoned from us doing it wrong.
+- Beat the ghosts
+- Puzzle was rhyming slang
+- Kenkar is Goliath's name
+- Summoned a ferret -> Called Greg (Gregathon...)
+- Arm wrestle between Kenkar & Maurice - Kenkar won
+- Poured mayonaise on Malkin to wake him up
+- Went left at path to see Eartha Taintedwood
+- Entered a learing where a tree with a hut is in it.
+- Old lady in knitted cloth invited us in.

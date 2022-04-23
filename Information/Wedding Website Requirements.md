@@ -1,0 +1,10 @@
+Musts
+-   **Event Itineraries** - Include start times, locations, dress codes, and pertinent transportation details for any important wedding weekend events that _all_ guests will be invited to, such as the [welcome party](https://www.brides.com/story/throw-a-welcome-party), ceremony, reception, and [after-party](https://www.brides.com/story/budget-friendly-after-party). Keep details about more exclusive wedding-weekend events, such as the rehearsal dinner, off the wedding website and confined only to the invited guests. That way, there’s no confusion about who’s included in what. 
+-   **Travel Info** - Your [destination wedding](https://www.brides.com/destination-weddings-4692036) might bring guests to a part of the world they’re unfamiliar with, so you’ll want to offer suggestions on the best airports to fly into, as well as any recommended transportation, taxi, shuttle, and/or ferry services.  
+-   **Accommodations** - If you’ve coordinated a [hotel block](https://www.brides.com/story/do-you-have-to-set-up-hotel-room-block-for-wedding) for guests, your wedding website is the perfect place to link to booking. 
+-   **Your Registry** - Your wedding website is the easiest way for guests to access any [gift registries](https://www.brides.com/story/wedding-gift-registries-the-best-places-to-register) you may have. 
+-   **RSVPs** - An online guest list tracker will likely be more efficient than using [mail-in RSVP cards](https://www.brides.com/rsvp-wording-5073713). If you’ll be requesting RSVPs digitally, be sure to include a page on your wedding website.
+
+Bonus Items:
+- **Messaging service** - Allowing people to message us via the website
+-   **COVID Protocols** - While we still deal with the lingering effects of the pandemic, it’s best to be explicit and upfront about any health and safety precautions you’ll be taking with your event. 

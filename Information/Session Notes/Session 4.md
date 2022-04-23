@@ -1,0 +1,31 @@
+- Books I found on ship:
+	- Unmarked leger <- has schematics of train
+	- Treats on Alandalusian diplomacy <- has mannerisums, manners, and traits around it. Tenuously at peace with Rabensreich
+	- Assorted papers with arcane book
+	- Romance book = Jack & the maiden fair <- sauntry tail about a sailor who went to find his loved one
+- Found small empty jewlery box with 5 ring slots
+- Map of the world
+- We had a huge battle. Maurice turned into a pig man & went down.
+- Adds flocked in to kill us & 2 ran but the rest were killed
+- Rubin's keep run by order of warrior scholars (order of the Rabinsritter (order of ruby knight))
+- Lycanthropes, gnerally can't control their forms/ Usually viewed as a pest
+- In schematics has all the info we need to build a train
+- Also there are some ledgers tracking finance. I notice irregularities. Clearly money is being mishanled by Malkin. Appears in 2 ways:
+	- It doesn't matc money in + out
+	- Large number of unpaid wages
+- Letter written by Katia's sister outlining people should have gotten new jobs but clearly they didn't 
+- Found:
+	- 3 more healing potions (I kept 1)
+	- 2 bags of dust of disappearance
+	- Very heavy rod that has a button that makes it lighter
+	- A jug with mysterious liquid -> will refill with a liquid of my choice:
+		- Acid
+		- Wine
+		- Basic Potion (not a potion effect)
+		- Salt / Fresh water
+		- Oil (Cooking / Industrial)
+		- Mayonaise
+		- Vinegar
+		- Honey
+		- I can specify what liquid it has in it at will (vocally).
+		- It's always full

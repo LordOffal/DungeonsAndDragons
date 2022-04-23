@@ -1,0 +1,19 @@
+- Walked towards dock. Lotos of little houses and a big ol' ship
+	- Red headed elf (from the train) & muscley guy at the helm
+- Malking is overweight, middle aged, tan skin, black balding hair. Normally wears nice clothes
+- We split the group, Maurice first, Thorn & me next, & Katia last
+	-  I "saved" Katia by disarming a trap
+	- Thorn fell through bridge #2 alerting the seperatists
+	- Katia caught up with us & we talked our way out of it
+	- Leader's name is West
+	- Made friends with Jack
+	- On the shining Star
+	- Found out we ar leaving in a couple of days
+	- Making is in prision with us
+	- After katia touched Malking we put him in a box
+	- I went out disgusided as Jack and found West
+	- Jack was killed by West and I ran away
+	- Big fight ensued
+	- I entered the captain's quarters with Katia, other are on deck
+	- The "Maid" has run away after taking bullets
+	- I used 1 spell slot

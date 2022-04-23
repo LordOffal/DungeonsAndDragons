@@ -1,0 +1,20 @@
+- Saw rebel seperatists who are against technology. They have metal faces and are called the Metal Seperation.
+- Saved kids Harley & Quinn (I can't remember Quinn's actual name)
+- Dragon Symbol = Knights of Draken (I don't like them)
+- Justicar = runs town defence, high justicar an area, Exemplaris head of a region
+- Saved(as a group) a man from the train
+- Killed a zombie golliath
+- Don't know why the statue of the green goess is arcane. I'd need to go to the Rubin Keep or the East Burg Moutains with my friends.
+- Thorn - drough + has a moustache
+- Maurice - Human, big booty, & has a moustache
+- My pact book
+	-> I can read it (didn't read more than 1st page)
+	-> First words, "Many eyed one" sticks out to me
+	-> More like a ritual rune
+	-> "Many eyed one" - creature of ageless infinite time
+	-> Imprissoned for the good of all aelurian authority
+- Pulse in mind -> Gore to a black void. In infinite nothing
+- Had a big battle where there was a lot of metal seperation forces, a zombie ogre, & a ghostly monster
+- Ghostly monster was summoned by a hooded gigure mainly
+- Silver serpent were targetting Katia (cusing the ghost)
+- Found burnt patchment + broken ruby necklace

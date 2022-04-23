@@ -1,0 +1,67 @@
+Date: 05/02/2022
+
+- Opening:
+	- We see a house on a tree (15/16ft tall) with mny faces & limbs. Doesn't seem to be moving / active
+	- Surrounded by bushes, not normal bushes. They move & look to be small 5 limbed creatures.
+	- Hunched back, late 80s old human lady with fey hair puffy cheecks. Looks like my average grandmother.
+- All the wood of the bush seems to be all the same
+- Failed at catching a shrub (on a 19)
+- Shrubs are old lady's friend
+- Inside lady's house:
+	- She is a hoarder
+	- A painting above fire of a sexy as elven lady on a throne. All around her is people worshiping her.
+	- We can't place this lady
+	- Was a queen of the old lday
+	- She seems to have been around before the gardener
+	- "Granny Green" - old lady's name
+	- "Gardnerner's wood was more than my life time" - Granny Green
+	- Kenkar made a bet on naming every weapon in the hut
+		- He failed
+- I thought the "Kemonke" was a shuriken
+- Granny Green is always here
+--------------------------------------------------------------
+- Me Only:
+	- I know the world before was higher tech
+	- I know because I met a creature / object called P.O.E.T
+	- He's an automaton
+	- He's designed to observe the universe
+	- I would know the event called the calamety rapidly changed the contitinent
+	- This would have happened thousands of years (min 400/500 years)
+	- P.O.E.T. told me a civ "The Authority" the glitched on saying it
+--------------------------------------------------------------
+- Katia asked if we can slay the gardener
+- Granny Green told us of a ritual to seal his powers
+- I know several spells (heard tale of) could force one to be able to speak I mental block
+- She got it from the mountains nearby with some monks
+	- East of us
+- Monastery to the north too
+- Drough as a race didn't exist during Granny Green's time
+	- Dark elves didn't exist in her time
+- Spine is named by Dwarves after their god's body
+	- Dwarves didn't like humans due to their spread
+- I asked a secret question and she got upset and said no
+	- Asking someone if they are an automata is rude + illegal
+- Granny Green told me
+	- "Go to the highest point on the spine the northern peak. I will find a building and I should be able to see my patreon." (Unsure if southern but most likely northern)
+- The Auralean Authority -> Elven Kingdom. Have settlements through out this land
+- Go to capitals of elves (one in the west) -> 2 weeks travel near the coast (old) other north of the spine near eastern side of neck. That is their spiritual capital. Seen as a capital by many.
+- Me Thought - authority made automita but not guaranteed
+- We gave 5 drops of blood (one being Malking's) to bind the Gardener
+- Gained a Crossbow (light) of Sapping Sting from Granny Green
+	- Magical wepaon - Normally light crossbow that grants the ability to use cantrip Sapping Sting
+- Saw a shimer on the route hom from the Gardenner's wood
+	- I would associate it with magic made physical
+	- My master told me
+	- I don't know why it had a dropping effect
+- Tananbough has gone under a lot of reconstruction since we left
+- Time we felt we spent on the quest is less than reality
+- Station is full repaired
+------------------------------------------------------------
+|Side thought|
+So a high tech society has colapsed before and we have a group trying to destroy tech now. Patreon my be linked to previou calamity
+
+------------------------------------------------------------
+- Katia need to go to Studgate -> As told bt Jerick
+- Katia punches Malkin when she finds out about his crimes
+- Malking runs and a combat occurs
+- We lost him in a crowd
