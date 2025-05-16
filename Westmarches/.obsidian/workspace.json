@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "017ce5dbcfd2f68c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eefa6b7ffacb13f",
+        "type": "tabs",
+        "dimension": 77.09854014598541,
+        "children": [
+          {
+            "id": "f1a808bf2a37010c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "b8117ab7ca5814ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Helga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helga"
+            }
+          },
+          {
+            "id": "a44194d3e371ee9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Noctus Minstryxson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noctus Minstryxson"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4a1a3e5c9d3060e1",
+        "type": "tabs",
+        "dimension": 22.9014598540146,
+        "children": [
+          {
+            "id": "0be12ab9ba662818",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4ed9a153d79cd99",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ec914b0521fcc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83fbd35745b7a737",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "759fee684e759c2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61592f57a73a5525",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f89db168dbf70be6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4a7aa56b4d78978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b19d52ccd911537",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Helga.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Helga"
+            }
+          },
+          {
+            "id": "99a858a6526168e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPCs/Helga.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Helga"
+            }
+          },
+          {
+            "id": "4225a85b45c701d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dad86ba1c5d087c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPCs/Helga.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Helga"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b8117ab7ca5814ea",
+  "lastOpenFiles": [
+    "NPCs/Ewald.md",
+    "Session Notes/Session 1.md",
+    "Locations/Dirthfell.md",
+    "NPCs/Daryl.md",
+    "Locations/Sub-Locations/The Wilting Tulip.md",
+    "Locations/Sub-Locations",
+    "Locations/Pyre.md",
+    "NPCs/Helga.md",
+    "NPCs/Kev.md",
+    "PCs/Kojiki Juun.md",
+    "PCs/Thavaar.md",
+    "PCs/Noctus Minstryxson.md",
+    "NPCs/Wilbur.md",
+    "NPCs/Tolly.md",
+    "NPCs/Rionna.md",
+    "Pasted image 20250516164206.png",
+    "Pasted image 20250516162916.png",
+    "Pasted image 20250516162015.png",
+    "Pasted image 20250516161624.png",
+    "Pasted image 20250516161550.png",
+    "Pasted image 20250516153815.png",
+    "Pasted image 20250516153624.png",
+    "Pasted image 20250516153602.png",
+    "PCs/Xerxes Azhdaha.md",
+    "Enemies/Session 1 Goblin Band/Goblin dude.md",
+    "Welcome.md",
+    "Locations",
+    "Enemies/Session 1 Goblin Band/Goblin Leader.md",
+    "Enemies/Session 1 Goblin Band",
+    "Enemies",
+    "PCs",
+    "Session Notes",
+    "NPCs"
+  ]
+}

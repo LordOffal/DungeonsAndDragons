@@ -1,0 +1,5 @@
+"What started as a simple ambush turned into absolute chaos. We were riding our trusty boars, ready to raid, when darkness engulfed us. I thought the tall one — maybe their spellcaster — was controlling it, so I charged at him again and again, but couldn’t land a hit.
+
+Then a barbarian woman lit up like a cursed tree and came at me screaming. She hit hard — I felt bones crack. Before I could recover, fire swept over me and my boar. One of the lizard-looking ones spat flame — my mount buckled, I barely held on.
+
+I tried to fight back, but every swing missed. My foes were everywhere — birds in my face, acid slicing the air, and that glowing barbarian landed a critical blow that nearly ended me. Another fighter rushed me, but missed. My allies were being picked off. It all unraveled so fast. I never expected such overwhelming force."
