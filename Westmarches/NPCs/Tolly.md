@@ -1,4 +1,4 @@
-![[Pasted image 20250516153624.png|350]]
+![[Tolly - Profile Image.png|350]]
 
 **Gender**: Male
 **Role**: Farmer

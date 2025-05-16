@@ -1,4 +1,4 @@
-![[Pasted image 20250516164206.png|350]]
+![[Helga - Profile Image.png|350]]
 **Gender:** Female  
 **Role:** Herbalist  
 **Race:** Half-Orc  

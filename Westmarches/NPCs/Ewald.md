@@ -1,4 +1,4 @@
-![[Pasted image 20250516161550.png|350]]
+![[Daryl - Profile Image.png|350]]
 
 **Gender:** Male  
 **Role:** Innkeeper of [[The Wilting Tulip]]

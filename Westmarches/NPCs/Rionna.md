@@ -1,4 +1,4 @@
-![[Pasted image 20250516153815.png||350]]
+![[Rionna - Profile Image.png||350]]
 **Gender**: Female
 **Role**: Merchant
 **Race**: Tabaxi

@@ -1,4 +1,4 @@
-![[Pasted image 20250516161624.png|350]]
+![[Ewald - Profile Image.png|350]]
 
 **Gender:** Male  
 **Role:** Bartender at [[The Wilting Tulip]]

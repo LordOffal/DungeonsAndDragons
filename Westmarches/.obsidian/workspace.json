@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Helga.md",
+                "file": "NPCs/Tolly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helga"
+              "title": "Tolly"
             }
           },
           {
@@ -62,10 +62,14 @@
             "id": "0be12ab9ba662818",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Noctus Minstryxson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noctus Minstryxson"
             }
           }
         ]
@@ -141,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Helga.md",
+                "file": "PCs/Noctus Minstryxson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Helga"
+              "title": "Backlinks for Noctus Minstryxson"
             }
           },
           {
@@ -160,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Helga.md",
+                "file": "PCs/Noctus Minstryxson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Helga"
+              "title": "Outgoing links from Noctus Minstryxson"
             }
           },
           {
@@ -189,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Helga.md",
+                "file": "PCs/Noctus Minstryxson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Helga"
+              "title": "Outline of Noctus Minstryxson"
             }
           }
         ]
@@ -215,31 +219,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8117ab7ca5814ea",
+  "active": "0be12ab9ba662818",
   "lastOpenFiles": [
+    "NPCs/Tolly.md",
+    "NPCs/NPC Profile Images/Rionna - Profile Image.png",
+    "NPCs/NPC Profile Images/Kev - Profile Image.png",
+    "NPCs/NPC Profile Images/Pasted image 20250516162015.png",
+    "NPCs/NPC Profile Images/Ewald - Profile Image.png",
+    "NPCs/NPC Profile Images/Daryl - Profile Image.png",
+    "NPCs/NPC Profile Images/Tolly - Profile Image.png",
+    "NPCs/NPC Profile Images/Pasted image 20250516153624.png",
+    "NPCs/NPC Profile Images/Helga - Profile Image.png",
+    "NPCs/Daryl.md",
+    "PCs/Kojiki Juun.md",
+    "NPCs/NPC Profile Images",
+    "NPCs/Helga.md",
     "NPCs/Ewald.md",
     "Session Notes/Session 1.md",
     "Locations/Dirthfell.md",
-    "NPCs/Daryl.md",
     "Locations/Sub-Locations/The Wilting Tulip.md",
     "Locations/Sub-Locations",
     "Locations/Pyre.md",
-    "NPCs/Helga.md",
     "NPCs/Kev.md",
-    "PCs/Kojiki Juun.md",
     "PCs/Thavaar.md",
     "PCs/Noctus Minstryxson.md",
     "NPCs/Wilbur.md",
-    "NPCs/Tolly.md",
     "NPCs/Rionna.md",
-    "Pasted image 20250516164206.png",
-    "Pasted image 20250516162916.png",
-    "Pasted image 20250516162015.png",
-    "Pasted image 20250516161624.png",
-    "Pasted image 20250516161550.png",
-    "Pasted image 20250516153815.png",
-    "Pasted image 20250516153624.png",
-    "Pasted image 20250516153602.png",
     "PCs/Xerxes Azhdaha.md",
     "Enemies/Session 1 Goblin Band/Goblin dude.md",
     "Welcome.md",
