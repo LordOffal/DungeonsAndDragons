@@ -6,70 +6,33 @@
       {
         "id": "3eefa6b7ffacb13f",
         "type": "tabs",
-        "dimension": 77.09854014598541,
         "children": [
-          {
-            "id": "f1a808bf2a37010c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "b8117ab7ca5814ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Tolly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tolly"
-            }
-          },
           {
             "id": "a44194d3e371ee9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Noctus Minstryxson.md",
+                "file": "NPCs/Adan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noctus Minstryxson"
+              "title": "Adan"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4a1a3e5c9d3060e1",
-        "type": "tabs",
-        "dimension": 22.9014598540146,
-        "children": [
+          },
           {
-            "id": "0be12ab9ba662818",
+            "id": "d666e3d8dbc2f834",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Noctus Minstryxson.md",
+                "file": "NPCs/Adan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noctus Minstryxson"
+              "title": "Adan"
             }
           }
         ]
@@ -129,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "f89db168dbf70be6",
@@ -145,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Noctus Minstryxson.md",
+                "file": "NPCs/Adan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Noctus Minstryxson"
+              "title": "Backlinks for Adan"
             }
           },
           {
@@ -164,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs/Noctus Minstryxson.md",
+                "file": "Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Noctus Minstryxson"
+              "title": "Outgoing links from Session 2"
             }
           },
           {
@@ -193,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs/Noctus Minstryxson.md",
+                "file": "Session Notes/Session 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Noctus Minstryxson"
+              "title": "Outline of Session 2"
             }
           }
         ]
@@ -219,9 +182,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0be12ab9ba662818",
+  "active": "a44194d3e371ee9d",
   "lastOpenFiles": [
+    "NPCs/Daryl.md",
+    "NPCs/Adan.md",
+    "Session Notes/Session 2.md",
+    "NPCs/Ewald.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2025-06-04.md",
+    "Locations/Old World/Zirshahr.md",
     "NPCs/Tolly.md",
+    "NPCs/Wilbur.md",
+    "PCs/Thavaari.md",
+    "PCs/Xerxes Azhdaha.md",
+    "PCs/PC Familiars/Ruh-e-Tarikhi.md",
+    "Session Notes/Session 1.md",
+    "PCs/Kojiki Juun.md",
+    "PCs/Noctus Minstryxson.md",
+    "PCs/PC Images/PC Familiar Profile Images/Rutar - Profile Image.png",
+    "PCs/PC Images/PC Familiar Profile Images",
+    "NPCs/Kev.md",
+    "PCs/PC Familiars",
+    "[[Thavaari.md",
+    "NPCs/Rionna.md",
+    "Enemies/Session 1 Goblin Band/Goblin Leader.md",
+    "PCs/PC Images/PC Profile Images/Thavaari - Profile Image.png",
+    "NPCs/Helga.md",
+    "Locations/Old World",
+    "Locations/Pyre.md",
+    "Welcome.md",
+    "PCs/PC Images/PC Profile Images/Xerxes - Profile Image.png",
+    "PCs/PC Images/PC Profile Images",
+    "PCs/PC Images",
+    "Factions/House Azhdaha.md",
+    "Enemies/Session 1 Goblin Band/Goblin dude.md",
+    "Pyre.md",
+    "Factions",
+    "Locations/Sub-Locations/The Wilting Tulip.md",
     "NPCs/NPC Profile Images/Rionna - Profile Image.png",
     "NPCs/NPC Profile Images/Kev - Profile Image.png",
     "NPCs/NPC Profile Images/Pasted image 20250516162015.png",
@@ -229,31 +227,9 @@
     "NPCs/NPC Profile Images/Daryl - Profile Image.png",
     "NPCs/NPC Profile Images/Tolly - Profile Image.png",
     "NPCs/NPC Profile Images/Pasted image 20250516153624.png",
-    "NPCs/NPC Profile Images/Helga - Profile Image.png",
-    "NPCs/Daryl.md",
-    "PCs/Kojiki Juun.md",
     "NPCs/NPC Profile Images",
-    "NPCs/Helga.md",
-    "NPCs/Ewald.md",
-    "Session Notes/Session 1.md",
-    "Locations/Dirthfell.md",
-    "Locations/Sub-Locations/The Wilting Tulip.md",
     "Locations/Sub-Locations",
-    "Locations/Pyre.md",
-    "NPCs/Kev.md",
-    "PCs/Thavaar.md",
-    "PCs/Noctus Minstryxson.md",
-    "NPCs/Wilbur.md",
-    "NPCs/Rionna.md",
-    "PCs/Xerxes Azhdaha.md",
-    "Enemies/Session 1 Goblin Band/Goblin dude.md",
-    "Welcome.md",
     "Locations",
-    "Enemies/Session 1 Goblin Band/Goblin Leader.md",
-    "Enemies/Session 1 Goblin Band",
-    "Enemies",
-    "PCs",
-    "Session Notes",
-    "NPCs"
+    "Enemies/Session 1 Goblin Band"
   ]
 }

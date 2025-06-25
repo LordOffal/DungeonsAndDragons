@@ -19,6 +19,6 @@ The moment I saw them, I knew. Fighters. Survivors. Not your average traveling t
 
 The festival’s tomorrow. Spirits are high. We need distractions from bad harvests and goblin rumors. So I offered them a spot in the brawl. Tools on the field. No real weapons. Let’s see if they’ve got more than fire and flash.
 
-They seem game. That [[Thavaar|Thavaar]] girl thinks the beer _is_ the weapon. She might not be wrong.
+They seem game. That [[Thavaari|Thavaari]] girl thinks the beer _is_ the weapon. She might not be wrong.
 
 I’ll be watching. Closely.

@@ -1,8 +1,14 @@
 **Player**: Nick
 **Race**: Orc
 **Nickname**: Koji
-**Age**: ? Looks old
 **Class**: Monk
+**Age**:  ??? Looks old
+**Height**: 5ft 10
+**Weight**: ??? Won't be light with her muscles
+**Faith**: ???
+**Residence**: [[Pyre]]
+**Origin**: ???
+**Relations**: ???
 **Description**: 
 
 - Likes Dragon Chess and is okay at it.

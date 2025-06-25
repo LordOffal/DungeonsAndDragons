@@ -19,7 +19,7 @@ That had been my quiet mantra since joining this merchant trip. I’d been walki
 
 Then came the goblins.
 
-Boars came thundering through the underbrush, and suddenly all my walking turned to dodging. [[Kojiki Juun]] charged into the darkness and knocked one senseless. [[Thavaar]] — stars above — went green-glow berserk and hacked into their leader like a storm given form. Xerxes just breathed fire like that was a perfectly normal thing to do before breakfast.
+Boars came thundering through the underbrush, and suddenly all my walking turned to dodging. [[Kojiki Juun]] charged into the darkness and knocked one senseless. [[Thavaari]] — stars above — went green-glow berserk and hacked into their leader like a storm given form. Xerxes just breathed fire like that was a perfectly normal thing to do before breakfast.
 
 One of the little [[Goblin dude|goblin bastards]] lunged at me. Missed, thank the trees. Maybe he thought I looked like easy prey — a harmless elf in farmer’s clothes. Joke’s on him: I _am_ easy prey. I just happened to be travelling with lunatics.
 
