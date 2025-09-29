@@ -1,0 +1,3 @@
+We are in the cave away from the dragon near the ship. We discuss what to do with Haliloo's body.  We chose to we'd take the body back to our inn and call it either "The Headless Bard" or "The Bard's Head" - creating a story around the dead bard. Dayon slides the body into the bag of holding with some ice which he does well.
+
+ Tinjong tells us the dragon is unlikely to find us as it normally goes west not east and that we need to ring a bell when we reach the whale. We realise the axe beaks behind and they are likely dead. We then head east along the coast. 
