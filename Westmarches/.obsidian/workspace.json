@@ -13,40 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "PCs/Seiko Enkai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Seiko Enkai"
             }
           },
           {
-            "id": "05e56754f07da9d8",
+            "id": "05dcfb1fa6c52884",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Session Notes/Session 3.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.9.10"
               },
-              "icon": "lucide-file",
-              "title": "Session 3"
-            }
-          },
-          {
-            "id": "d666e3d8dbc2f834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Adan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adan"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
         ],
@@ -107,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 200
   },
   "right": {
     "id": "f89db168dbf70be6",
@@ -189,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -197,52 +182,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05e56754f07da9d8",
+  "active": "05dcfb1fa6c52884",
   "lastOpenFiles": [
-    "NPCs/Wilbur.md",
-    "Session Notes/Session 3.md",
+    "Session Notes/Session 4.md",
+    "NPCs/Tera Willow Gut.md",
+    "NPCs/Kaelin Mer.md",
+    "NPCs/NPC Profile Images/Kaelin Mer - Profile Image.png",
     "NPCs/Daryl.md",
-    "Session Notes/Session 2.md",
+    "NPCs/Elowen Vex.md",
+    "NPCs/Mags Underbow.md",
+    "NPCs/Lug Rendershell.md",
+    "NPCs/Rionna.md",
     "NPCs/Ewald.md",
     "NPCs/Adan.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2025-06-04.md",
-    "Locations/Old World/Zirshahr.md",
+    "NPCs/Helga.md",
+    "NPCs/Kev.md",
     "NPCs/Tolly.md",
+    "PCs/Noctus Minstryxson.md",
+    "PCs/Kojiki Juun.md",
+    "PCs/Seiko Enkai.md",
+    "Session Notes/Session 2.md",
+    "PCs/Lazzan.md",
+    "PCs/PC Familiars/Kanetama-no-Kistune Unit.md",
+    "PCs/PC Images/PC Profile Images/Seiko - Profile Image.png",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 3.md",
+    "PCs/PC Images/PC Profile Images/Thavaari - Profile Image.png",
     "PCs/Thavaari.md",
     "PCs/Xerxes Azhdaha.md",
+    "PCs/PC Images/PC Profile Images/Xerxes - Profile Image.png",
+    "PCs/PC Images/PC Familiar Profile Images/Kanetama - Profile Image.png",
     "PCs/PC Familiars/Ruh-e-Tarikhi.md",
-    "Session Notes/Session 1.md",
-    "PCs/Kojiki Juun.md",
-    "PCs/Noctus Minstryxson.md",
+    "NPCs/Wilbur.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "PCs/PC Images/PC Familiar Profile Images/Rutar - Profile Image.png",
     "PCs/PC Images/PC Familiar Profile Images",
-    "NPCs/Kev.md",
     "PCs/PC Familiars",
-    "[[Thavaari.md",
-    "NPCs/Rionna.md",
-    "Enemies/Session 1 Goblin Band/Goblin Leader.md",
-    "PCs/PC Images/PC Profile Images/Thavaari - Profile Image.png",
-    "NPCs/Helga.md",
     "Locations/Old World",
-    "Locations/Pyre.md",
-    "Welcome.md",
-    "PCs/PC Images/PC Profile Images/Xerxes - Profile Image.png",
     "PCs/PC Images/PC Profile Images",
     "PCs/PC Images",
-    "Factions/House Azhdaha.md",
-    "Enemies/Session 1 Goblin Band/Goblin dude.md",
-    "Pyre.md",
     "Factions",
-    "Locations/Sub-Locations/The Wilting Tulip.md",
     "NPCs/NPC Profile Images/Rionna - Profile Image.png",
     "NPCs/NPC Profile Images/Kev - Profile Image.png",
     "NPCs/NPC Profile Images/Pasted image 20250516162015.png",
     "NPCs/NPC Profile Images/Ewald - Profile Image.png",
-    "NPCs/NPC Profile Images/Daryl - Profile Image.png",
-    "NPCs/NPC Profile Images/Tolly - Profile Image.png",
-    "NPCs/NPC Profile Images/Pasted image 20250516153624.png",
     "NPCs/NPC Profile Images",
     "Locations/Sub-Locations",
     "Locations",
