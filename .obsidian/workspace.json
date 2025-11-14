@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dc69d201a4115e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 26"
-            }
-          },
-          {
             "id": "c29b74fc6f602a2b",
             "type": "leaf",
             "state": {
@@ -34,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Session 27"
             }
+          },
+          {
+            "id": "d89b340a23624833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 28"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +141,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0dc69d201a4115e9",
+  "active": "d89b340a23624833",
   "lastOpenFiles": [
+    "Session 28.md",
     "Session 27.md",
     "Session 26.md",
-    "Session 25.md",
     "Session 24.md",
     "Session 23.md",
+    "Session 25.md",
     "Characters/C-L0ck.pdf",
     "Westmarches/Session Notes/Session 3.md",
     "Westmarches/Session Notes/Untitled.md",
